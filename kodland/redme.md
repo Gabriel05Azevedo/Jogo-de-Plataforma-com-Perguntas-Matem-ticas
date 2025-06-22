@@ -16,22 +16,14 @@ Um jogo de plataforma 2D educativo onde você precisa pular entre plataformas en
 - Pygame Zero
 - Git (para controle de versão)
 
-## ⚙️ Instalação
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/math-platform-jumper.git
-cd math-platform-jumper
-```
-
-2. Instale as dependências:
+Instale as dependências:
 ```bash
 pip install pgzero
 ```
 
-3. Execute o jogo:
+Execute o jogo:
 ```bash
-python main.py
+python3 -m pgzero main.py
 ```
 *(Ou use `make jogo` se tiver Makefile instalado)*
 
